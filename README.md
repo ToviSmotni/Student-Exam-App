@@ -1,5 +1,5 @@
 # Exam Management System
-### Developed by Malki Applebaum ✍️
+### Developed by Tovi Smotni ✍️
 
 ## Description
 The **Exam Management System** is a C# WinForms-based application designed for managing and conducting exams. The system is divided into two main user roles: **Teachers** and **Students**. 
@@ -63,4 +63,4 @@ This application provides a simple and intuitive interface for handling the enti
 ## Installation Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MalkiApplebaum/TeacherStudentExamApp.git
+   git clone https://github.com/ToviSmotni/TeacherStudentExamApp.git
